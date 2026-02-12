@@ -1,6 +1,6 @@
 # Utaipei-Seismology
 
-An educational repository from the **University of Taipei (國立臺北大學)** that combines **seismology data analysis** with a structured **machine learning curriculum**. Students learn to retrieve, process, and visualize real-world earthquake seismic data, then apply classical and deep-learning techniques — culminating in ML-based earthquake detection.
+An educational repository from the **University of Taipei (臺北市立大學)** that combines **seismology data analysis** with a structured **machine learning curriculum**. Students learn to retrieve, process, and visualize real-world earthquake seismic data, then apply classical and deep-learning techniques — culminating in ML-based earthquake detection.
 
 ---
 
@@ -62,7 +62,7 @@ Utaipei-Seismology/
 │   ├── Day_022–Day_031  (Feature engineering & selection)
 │   ├── Day_032–Day_050  (Regression, trees, ensemble methods)
 │   ├── Day_054–Day_065  (Clustering, PCA, t-SNE)
-│   ├── Day66–Day76      (Keras intro, loss, activation, optimizers)
+│   ├── Day_066–Day_076  (Keras intro, loss, activation, optimizers)
 │   ├── Day077–Day089    (Overfitting, regularization, callbacks)
 │   ├── Day090–Day100    (CV, CNN theory, data augmentation, transfer learning)
 │   ├── Day104–Day105    (ConvNetJS, advanced CNN)
